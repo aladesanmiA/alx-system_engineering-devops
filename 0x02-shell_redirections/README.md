@@ -1,1 +1,1 @@
-Shell I/O readirections
+0x02 shell Input Output redirections and directions
